@@ -1,3 +1,16 @@
+class adress {
+    constructor(rua, bairro, cidade, estado) {
+        this.rua = rua,
+        this.bairro = bairro,
+        this.cidade = cidade,
+        this.estado = estado;
+    }
+}
+
+let newAdress = new adress('Acre', 'Ipiranga', 'Acre', 'SP')
+
+console.log(newAdress)
+
 function compareObjs(obj1, obj2){ //Naruto e Ninja
     obj1 instanceof obj2 ? console.log(`O objeto ${obj1.nome} é uma instancia de ${obj2.name}`)
     : console.log(`O objeto ${obj1.nome} não é uma instância de ${obj2.name}`)
