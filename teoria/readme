@@ -1,0 +1,39 @@
+A propriedade é um valor caracteristico de um objeto, como tamanho e cor
+    
+Classes:
+
+- Molde do objeto
+- Normalmente se criam diversos objetos da mesma Classe
+- Já possui porpriedades e metodos
+- ES6
+
+Encapsulação
+
+- Quando um objeto contém/encapsula dados ou meios de fazer algo com
+os dados (utilizando metodos)
+- Propriedades e metodos públicos, privados ou protegidos
+
+Agregação
+
+- Também conhecido como Composição
+- Combina diversos objetos em um maior
+- Utilizado para diminuir um objeto e torna-lo menos complexo
+- EX: Objeto grande => SalaDeAula
+- Com Agregação: SalaDeAula com ALuno, Cadeira, Lousa e etc
+- Objeto SalaDeAula dividida em objetos, com suas respectivas propriedades
+
+Herança
+
+- Quando um objeto ou classe deriva de uma outra classe 
+- Pode herdar suas propriedades e métodos
+EX:   Eletronic Items 
+            |
+            |   
+    Phones <---> Sound System
+
+Polimofirsmo
+
+- Possibilidade de utilizar um método de uma classe pai de maneira diferente
+- Se adapta a novas necessidades do objeto, sem alterar o metodo do objeto pai
+- Utiliza o conceito de Herança
+                
