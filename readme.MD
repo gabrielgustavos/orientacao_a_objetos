@@ -1,0 +1,1 @@
+## Hello there I don't really know why i'm uploading this, but i will try to show u my notes about my studies about POO in JS Btw, feel free to use, but don't forget your star pls =)
