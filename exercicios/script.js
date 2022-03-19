@@ -33,5 +33,4 @@ naruto.atirarShuriken(orochimaru)
 console.log(orochimaru)
 
 compareObjs(naruto, Ninja)
-//
 
