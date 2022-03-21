@@ -37,3 +37,8 @@ Polimofirsmo
 - Se adapta a novas necessidades do objeto, sem alterar o metodo do objeto pai
 - Utiliza o conceito de Herança
                 
+
+                ,
+- This se refere ao Objeto Atual em que o código está sendo escrito
+
+- Todas as vezes que trabalhamos num exemplo que usa uma API interna do navegador ou objetos Javascript, estamos usando objetos, porque esses recursos são construídos usando exatamente o mesmo tipo de estrutura de objetos que vimos aqui, embora mais complexos do que nossos exemplos básicos.
