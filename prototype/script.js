@@ -81,3 +81,5 @@ console.log(apple.good) //false
 //Verificar se há uma determinada propriedade dentro de um prototype
 
 apple.hasOwnProperty('name') ? console.log(true) : console.log (false)
+
+
